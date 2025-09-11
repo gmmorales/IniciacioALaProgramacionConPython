@@ -23,3 +23,4 @@ previa, brindándoles las bases de la programación con Python y mostrando
 cómo la IA puede convertirse en una aliada estratégica para potenciar sus
 capacidades, mejorar la calidad técnica de sus proyectos y fortalecer su
 autonomía en la resolución de problemas.
+[nada]
